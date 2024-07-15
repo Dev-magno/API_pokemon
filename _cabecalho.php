@@ -17,7 +17,7 @@ function getPokemonData($pokemonName) {
 }
 
 // Nomes dos Pokémons que quero buscar na PokeAPI
-$pokemonNames = ['pikachu', 'bulbasaur', 'charmander', 'squirtle', 'mewtwo', 'rayquaza', 'arceus', "dragonite", 'tyranitar', 'metagross'];
+$pokemonNames = ['pikachu', 'bulbasaur', 'charmander', 'squirtle', 'mewtwo', 'rayquaza', 'arceus', "dragonite", 'tyranitar', 'metagross', 'venusaur', 'charizard', 'charmeleon', 'blastoise', 'nidoking', 'nidorino', 'raichu', 'fearow', 'growlithe', 'primeape', 'kadabra'];
 $pokemons = [];
 
 // Loop para buscar dados de cada Pokémon e armazená-los no array $pokemons
